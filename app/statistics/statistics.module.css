@@ -1,0 +1,80 @@
+.iconEmployee{
+  display: block;
+  background-color: cadetblue;
+  height: 35px;
+  width: 35px;
+  border-radius: 17px;
+  padding: 5px;
+  color: white;
+}
+.cardEmployee{
+  border-bottom: 3px solid cadetblue;
+  border-radius: 5px;
+}
+
+.iconBooking{
+  display: block;
+  background-color: rgba(255, 166, 0, 0.864);
+  height: 35px;
+  width: 35px;
+  border-radius: 17px;
+  padding: 5px;
+  color: white;
+}
+.cardBooking{
+  border-bottom: 3px solid rgba(255, 166, 0, 0.864);
+  border-radius: 5px;
+}
+
+.cardRooms{
+  border-bottom: 3px solid#578709;
+  border-radius: 5px;
+}
+.iconRooms{
+  display: block;
+  background-color:#578709;
+  height: 35px;
+  width: 35px;
+  border-radius: 17px;
+  padding: 5px;
+  color: white;
+}
+.cardClients{
+  border-bottom: 3px solid#78716c;
+  border-radius: 5px;
+}
+.iconClients{
+  display: block;
+  background-color:#78716c;
+  height: 35px;
+  width: 35px;
+  border-radius: 17px;
+  padding: 5px;
+  color: white;
+}
+.cardActiveClients{
+  border-bottom: 3px solid#1a4eded6;
+  border-radius: 5px;
+}
+.iconActiveClients{
+  display: block;
+  background-color:#1a4eded6;
+  height: 35px;
+  width: 35px;
+  border-radius: 17px;
+  padding: 5px;
+  color: white;
+}
+.cardIncome{
+  border-bottom: 3px solid black;
+  border-radius: 5px;
+}
+.iconIncome{
+  display: block;
+  background-color: black;
+  height: 35px;
+  width: 35px;
+  border-radius: 17px;
+  padding: 5px;
+  color: white;
+}
